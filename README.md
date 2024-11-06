@@ -22,8 +22,8 @@ I specialize in Python, AI, and full-stack web development, with experience in p
 - "Energy optimization associated with thermal comfort and indoor air control via a deep reinforcement learning algorithm." Building and Environment 155 (2019): 105-117. [<a href="https://doi.org/10.1016/j.buildenv.2019.03.038">Paper</a>]
 
 ## Interesting facts about me
-- I have a passion for learning languages. Spanish is my native tongue, and I am fluent in English. I studied Chinese intensively for a full year here in Taiwan, and although my French is now a bit rusty after seven years of study, I'm eager to pick it back up. I'm also looking forward to learning German next.
-- I've been working as an English teacher for young children as a part-time job. This experience has significantly increased my patience levels.
+- I have a passion for learning languages. Spanish is my native tongue, and I am fluent in English. I studied Chinese intensively for a full year here in Taiwan, and although my French is now a bit rusty after seven years of study, I'm eager to pick it back up. I'm also looking forward to learning German and Polish next.
+- Last year I was working as an English teacher for little children as a part-time job. This experience significantly increased my patience levels.
 
 <img src="https://github.com/marcodavidg/marcodavidg/assets/11068920/c5ca9d7a-43b3-42c2-8133-ecf7c56037e0"  aligh="left" width="260"/>
 
