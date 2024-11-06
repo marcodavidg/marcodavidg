@@ -1,6 +1,8 @@
 # Hey there fellow coder 👋
 
-I'm a passionate software engineer with a recently completed Master's Degree in Computer Science and Artificial Intelligence from National Yang Ming Chiao Tung University (國立陽明較大大學). My thesis provided me with extensive research experience in Object Detection networks. I specialize in Python, AI, and web development. I currently live in Guatemala but want to relocate to Europe. I am open to new development challenges and encourage you to check out my projects.
+I'm Marco, a software engineer and AI researcher with a Master’s in Electrical Engineering and Computer Science from National Yang Ming Chiao Tung University (國立陽明交通大學). My research spans object detection, neural network compression, and image generation, and I have hands-on experience working with PyTorch, TensorFlow, and cutting-edge models like GANs and DETR.
+
+I specialize in Python, AI, and full-stack web development, with experience in projects for industry leaders like Garmin and Foxconn. Currently based in Guatemala, I’m open to new challenges worldwide, especially in Europe. Feel free to explore my projects, and let’s connect if you’re looking to collaborate or discuss tech ideas!
 
 <a href="https://linkedin.com/in/galindo-marco/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
